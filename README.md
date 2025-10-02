@@ -1,6 +1,7 @@
 ## Hi, I'm Ahmed Fawzy ✨
 
 💻 Back-End Developer | PHP & Laravel Specialist  
+👨‍🏫 PHP Mentor | Route Academy
 🎓 Bachelor of Medical Informatics – Benha University (BFCAI)  
 🛠 Skilled in PHP, Laravel, MySQL, JavaScript, WordPress, and more  
 
