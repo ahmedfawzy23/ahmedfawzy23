@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔥 AHMED FAWZY 🔥
+#  AHMED FAWZY 
 
 ### `< Back-End Wizard />` | **PHP Sorcerer** | **Laravel Architect**
 
