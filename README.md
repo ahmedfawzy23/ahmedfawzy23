@@ -334,7 +334,7 @@ const myMission = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/01ahmedfawzy23)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/01ahmedfawzy23)
 
-**📍 Location:** Al Minufiyah, Egypt  
+**📍 Location:** Giza, Egypt  
 **📧 Email:** 01ahmedfawzy23@gmail.com  
 **📱 Phone:** +201274106118
 
