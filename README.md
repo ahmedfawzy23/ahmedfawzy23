@@ -8,10 +8,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=header&animation=fadeIn" width="100%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedfawzy23&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/ahmedfawzy23?style=flat-square&color=blue)](https://github.com/ahmedfawzy23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmedfawzy23)
-
 </div>
 
 ---
