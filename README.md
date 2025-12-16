@@ -22,7 +22,6 @@ namespace Developer;
 class AhmedFawzy extends BackEndDeveloper implements Mentor, ProblemSolver
 {
     public string $currentRole = "Back-End Developer @ Digital Bond";
-    public string $location = "Giza, Egypt 🇪🇬";
     public int $experience = 3; // years
     
     private array $expertise = [
@@ -356,7 +355,6 @@ const myMission = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/01ahmedfawzy23)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/01ahmedfawzy23)
 
-**📍 Location:** Giza, Egypt  
 **📧 Email:** 01ahmedfawzy23@gmail.com  
 **📱 Phone:** +201274106118
 
