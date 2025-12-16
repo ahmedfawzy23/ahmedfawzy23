@@ -57,20 +57,31 @@ class AhmedFawzy extends BackEndDeveloper implements Mentor, ProblemSolver
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🏢 Digital Bond
 **Back-End Developer**  
-`Sep 2024 - Present`
+`Sep 2025 - Present`
 
 📍 Dokki, Egypt
 
 Building robust backend systems and RESTful APIs using Laravel. Focus on performance optimization and scalable architecture.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### 🚀 Elevate Tech
+### 🚀 Dotlaa Solution
+**Backend Team Lead**  
+`Dec 2025 - Present`
+
+📍 Remote
+
+Leading backend team, overseeing architecture decisions, code reviews, and mentorship while contributing to client projects.
+
+</td>
+<td width="25%" valign="top">
+
+### ⚡ Elevate Tech
 **Freelance Developer**  
 `Jan 2025 - Present`
 
@@ -79,7 +90,7 @@ Building robust backend systems and RESTful APIs using Laravel. Focus on perform
 Delivering custom backend solutions for clients. Specializing in Laravel development and system integration.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🎓 Route Academy
 **PHP Mentor & Team Leader**  
@@ -122,6 +133,21 @@ Flexible roles & permissions package with API support
 [![GitHub](https://img.shields.io/github/stars/ahmedfawzy23/laravel-roles-permissions?style=flat-square)](https://github.com/ahmedfawzy23/laravel-roles-permissions)
 
 [📖 Documentation](https://packagist.org/packages/fawzy/laravel-roles-permissions) • [💻 GitHub Repo](https://github.com/ahmedfawzy23/laravel-roles-permissions)
+
+---
+
+### 🌍 Meditrade - Import/Export Trading Platform
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Multilingual-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" />
+
+RESTful APIs and dynamic backend for Egypt's leading import-export company
+- 📦 Full CRUD for sectors, products, media, blogs, partners
+- 🌐 Bilingual support (Arabic/English)
+- 📁 File upload handling & media management
+- 🔄 Fully dynamic content delivery
+
+[🔗 Visit Website](https://meditrade-eg.com)
 
 ---
 
