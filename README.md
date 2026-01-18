@@ -8,6 +8,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=header&animation=fadeIn" width="100%" />
 
+<br/>
+
+![PS](https://img.shields.io/badge/🇵🇸-FREE-EE0000?style=for-the-badge&labelColor=EE0000)
+![Free Palestine](https://img.shields.io/badge/FREE-PALESTINE-000000?style=for-the-badge&labelColor=000000)
+![Support](https://img.shields.io/badge/SUPPORT-PALESTINE-00732F?style=for-the-badge&labelColor=00732F)
+![Palestine](https://img.shields.io/badge/PALESTINE-🕊️-000000?style=for-the-badge&labelColor=000000)
+
 </div>
 
 ---
@@ -28,7 +35,7 @@ class AhmedFawzy extends BackEndDeveloper implements Mentor, ProblemSolver
         'languages' => ['PHP', 'JavaScript', 'Python', 'C++', 'Java'],
         'frameworks' => ['Laravel', 'WordPress'],
         'databases' => ['MySQL', 'MongoDB', 'SQL Server', 'Oracle'],
-        'tools' => ['Git', 'GitHub', 'Docker', 'RESTful APIs'],
+        'tools' => ['Git', 'GitHub', 'RESTful APIs'],
         'specialties' => ['System Architecture', 'API Design', 'Database Optimization']
     ];
     
@@ -64,29 +71,29 @@ class AhmedFawzy extends BackEndDeveloper implements Mentor, ProblemSolver
 
 📍 Dokki, Egypt
 
-Building robust backend systems and RESTful APIs using Laravel. Focus on performance optimization and scalable architecture.
+Building and optimizing back-end systems and APIs using PHP Laravel framework, ensuring high performance and seamless integration with front-end applications.
 
 </td>
 <td width="25%" valign="top">
 
 ### 🚀 Dotlaa Solution
-**Backend Team Lead**  
-`Dec 2025 - Present`
+**Backend Team Leader**  
+`Project-based`
 
 📍 Remote
 
-Leading backend team, overseeing architecture decisions, code reviews, and mentorship while contributing to client projects.
+Leading backend architecture and development teams for client projects. Overseeing technical decisions and mentoring developers to meet project milestones efficiently.
 
 </td>
 <td width="25%" valign="top">
 
 ### ⚡ Elevate Tech
-**Freelance Developer**  
-`Jan 2025 - Present`
+**Back-End Developer**  
+`Project-based`
 
 📍 Remote
 
-Delivering custom backend solutions for clients. Specializing in Laravel development and system integration.
+Delivering tailored, high-performance backend solutions for diverse freelance projects. Collaborating with clients to translate business requirements into robust software architectures.
 
 </td>
 <td width="25%" valign="top">
@@ -95,9 +102,9 @@ Delivering custom backend solutions for clients. Specializing in Laravel develop
 **PHP Mentor & Team Leader**  
 `Feb 2023 - Present`
 
-📍 Dokki, Egypt
+📍 Dokki, Egypt | Hybrid
 
-Leading mentor team since Apr 2025. Teaching PHP & Laravel to aspiring developers. Military service: Oct 2023 - Nov 2024.
+Providing technical mentorship to trainees, enhancing their backend development skills through regular follow-ups, comprehensive explanations, and interactive workshops. Leading mentor team.
 
 </td>
 </tr>
@@ -109,16 +116,17 @@ Leading mentor team since Apr 2025. Teaching PHP & Laravel to aspiring developer
 
 <div align="center">
 
-### 🍱 Zi Sushi - Food Delivery Backend
+### 🍱 Zi Sushi - Mobile Food Ordering & Delivery App
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-Complete backend system for mobile food ordering app
+Developed and maintained comprehensive backend system for mobile food ordering app
 - 🎁 Loyalty points & voucher system
-- 💳 Promo codes management
+- 💳 Promo codes management module
 - 📊 Order tracking & analytics
 - 🔐 Secure payment integration
+- 🚀 Boosted user retention and engagement
 
 ---
 
@@ -126,12 +134,12 @@ Complete backend system for mobile food ordering app
 <img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" />
 <img src="https://img.shields.io/badge/Open_Source-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
 
-Flexible roles & permissions package with API support
+A powerful, flexible, and easy-to-use roles and permissions package for Laravel applications with built-in API support
 
 [![Packagist](https://img.shields.io/packagist/dt/fawzy/laravel-roles-permissions?style=flat-square)](https://packagist.org/packages/fawzy/laravel-roles-permissions)
 [![GitHub](https://img.shields.io/github/stars/ahmedfawzy23/laravel-roles-permissions?style=flat-square)](https://github.com/ahmedfawzy23/laravel-roles-permissions)
 
-[📖 Documentation](https://packagist.org/packages/fawzy/laravel-roles-permissions) • [💻 GitHub Repo](https://github.com/ahmedfawzy23/laravel-roles-permissions)
+[📖 Packagist](https://packagist.org/packages/fawzy/laravel-roles-permissions) • [💻 GitHub Repo](https://github.com/ahmedfawzy23/laravel-roles-permissions)
 
 ---
 
@@ -140,37 +148,53 @@ Flexible roles & permissions package with API support
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Multilingual-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" />
 
-RESTful APIs and dynamic backend for Egypt's leading import-export company
+RESTful APIs and dynamic backend system for Egypt's leading import-export company
 - 📦 Full CRUD for sectors, products, media, blogs, partners
 - 🌐 Bilingual support (Arabic/English)
 - 📁 File upload handling & media management
-- 🔄 Fully dynamic content delivery
+- 🔄 Fully dynamic content delivery without code changes
+- 🏗️ Scalable database architecture
 
 [🔗 Visit Website](https://meditrade-eg.com)
 
 ---
 
-### 🎓 EGEC Educational Platform
+### 🎓 EGEC - Educational Services Platform
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Multilingual-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" />
 
-Comprehensive bilingual platform connecting international students with Egyptian universities
-- 🔍 Advanced search & filtering system
+Comprehensive bilingual platform for Egyptian Gulf Educational Company connecting international students with Egyptian universities
+- 🔍 Advanced search & filtering (country, university, specialization)
 - 🤝 Automated admission procedures
 - 💼 VIP services module
 - 🌍 Multi-country support
+- 🎓 End-to-end student journey management (enrollment → graduation)
+- 💬 Educational consultations system
 
 ---
 
-### 🏘️ Bowarih Real Estate Platform
+### 🇦🇪 Edugate (UAE) - Educational Platform
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Multilingual-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" />
+
+Bilingual admission platform for UAE educational services
+- 🔎 Advanced search capabilities
+- 🤖 Automated student application workflows
+- 📝 Dynamic CMS for university programs
+- 👨‍🎓 Efficient student services management
+
+---
+
+### 🏘️ Bowarih - Real Estate Platform
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-Custom real estate platform with advanced features
+Custom real estate platform built with WordPress
 - 🏠 Custom property listings
-- 🔎 Smart filters & search
+- 🔎 Smart filters & advanced search
 - 🌐 Multi-language support
 - 📱 Mobile responsive design
+- ⚡ Optimized backend performance
 
 ---
 
@@ -178,7 +202,7 @@ Custom real estate platform with advanced features
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-Complete event management & booking system
+Complete event management & booking platform
 - 📅 Event management APIs
 - 🎫 Booking & ticketing system
 - 👥 Role-based access control
@@ -186,15 +210,30 @@ Complete event management & booking system
 
 ---
 
-### 📚 E-Train Learning Platform
+### 📚 E-Train - Learning Management System
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-Online course booking & management system
-- 🔐 Secure authentication
+Complete online course booking and management system
+- 🔐 Secure user authentication
 - 📖 Course browsing & enrollment
-- 👨‍💼 Admin dashboard
-- 🎨 Clean MVC architecture
+- 👨‍💼 Admin dashboard for course management
+- 🎨 Clean MVC architecture with Blade templating
+- 📊 Laravel migrations for scalable database structure
+
+---
+
+### 🏥 Early Detection of Pulmonary Diseases (Graduation Project)
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+AI-powered system for early detection of pulmonary diseases through respiratory sound analysis
+- 🤖 AI techniques for disease detection
+- 🎵 Respiratory sound analysis
+- 💻 Full-stack implementation (PHP, Laravel, Python)
+- 📊 MySQL database management
+- 🎨 Responsive frontend (HTML5, CSS3, Bootstrap, jQuery)
 
 </div>
 
@@ -269,6 +308,7 @@ Online course booking & management system
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 </div>
 
@@ -299,7 +339,7 @@ Online course booking & management system
 **Benha University** - FCAI  
 `2019 - 2023`
 
-Specialized in Medical Informatics, combining healthcare with computer science and AI applications.
+Bachelor of Medical Informatics at Faculty of Computers & Artificial Intelligence, specializing in the intersection of healthcare, computer science, and AI applications.
 
 </td>
 <td width="50%">
@@ -308,11 +348,22 @@ Specialized in Medical Informatics, combining healthcare with computer science a
 **Route Academy**  
 `Aug 2022 - Jan 2023`
 
-Intensive program focused on PHP & Laravel framework, modern backend development practices, and real-world projects.
+Intensive program focused on PHP & Laravel framework, modern backend development practices, and real-world project implementation.
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-success?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -327,7 +378,7 @@ const myMission = {
     values: ["Clean Code", "Continuous Learning", "Team Collaboration"],
     
     dailyRoutine: [
-        "☕ Start with coffee and planning",
+        "🍵 Start with tea and planning",
         "💻 Write clean, maintainable code",
         "🐛 Debug with patience and precision",
         "👨‍🏫 Mentor and share knowledge",
@@ -381,8 +432,9 @@ name: Ahmed Fawzy
 role: Back-End Developer
 focus: PHP | Laravel | System Architecture
 status: Available for collaboration
-interests: [Open Source, Mentoring, Clean Code]
-fun_fact: I turn tea into code ☕→💻
+interests: [Open Source, Mentoring, Clean Code, API Design]
+languages: [Arabic (Native), English (Intermediate)]
+fun_fact: I turn tea into code 🍵→💻
 ```
 
 </div>
@@ -398,6 +450,6 @@ fun_fact: I turn tea into code ☕→💻
 **"First, solve the problem. Then, write the code."** – John Johnson
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
-![Powered by](https://img.shields.io/badge/Powered%20by-☕%20Tea-brown?style=flat-square)
+![Powered by](https://img.shields.io/badge/Powered%20by-🍵%20Tea-brown?style=flat-square)
 
 </div>
