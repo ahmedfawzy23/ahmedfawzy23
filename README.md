@@ -29,7 +29,7 @@ namespace Developer;
 class AhmedFawzy extends BackEndDeveloper implements Mentor, ProblemSolver
 {
     public string $currentRole = "Back-End Developer @ Digital Bond";
-    public int $experience = 3; // years
+    public int $experience = 2; // years
     
     private array $expertise = [
         'languages' => ['PHP', 'JavaScript', 'Python', 'C++', 'Java'],
