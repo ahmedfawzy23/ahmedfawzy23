@@ -10,7 +10,7 @@
 
 ### 🚜 My Contribution Farm
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedfawzy/ahmedfawzy/output/tractor_harvest.svg" alt="Tractor Harvest Animation" />
+  <img src="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/main/assets/tractor_harvest.svg" alt="Tractor Harvest" />
 </div>
 
 ---
