@@ -12,14 +12,66 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Architecting+Scalable+Solutions+%F0%9F%8F%97%EF%B8%8F;3%2B+Years+of+Laravel+Mastery+%F0%9F%94%A5;Senior+Mentor+%26+Team+Leader+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Architecting+Scalable+Solutions+🏗️;3%2B+Years+of+Laravel+Mastery+🔥;Senior+Mentor+%26+Team+Leader+🚀" />
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+<br/>
+
+## ♟️ &nbsp;Let's Play Chess!
+
+<div align="center">
+  <h3>🎮 Interactive Chess — Play against me via GitHub Issues!</h3>
+  <p>
+    <b>Make a move by <a href="https://github.com/ahmedfawzy23/ahmedfawzy23/issues/new?title=chess%7Cmove%7C{FROM}%7C{TO}&body=Just+open+this+issue+to+make+a+move.+Replace+{FROM}+and+{TO}+with+your+positions+(e.g.+e2+e4)">opening an issue</a></b>
+  </p>
+</div>
+
+<!-- BEGIN CHESS BOARD -->
+|   | a | b | c | d | e | f | g | h |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+| **7** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
+| **6** |   |   |   |   |   |   |   |   |
+| **5** |   |   |   |   |   |   |   |   |
+| **4** |   |   |   |   |   |   |   |   |
+| **3** |   |   |   |   |   |   |   |   |
+| **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+<!-- END CHESS BOARD -->
+
+<div align="center">
+
+<!-- BEGIN TURN -->
+**⚪ White's turn**
+<!-- END TURN -->
+
+<!-- BEGIN MOVES LIST -->
+No moves yet. Be the first to play!
+<!-- END MOVES LIST -->
+
+  <br/>
+  <i>"Chess is like code: every move requires strategy and precision." ♟️</i>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🛡️ &nbsp;Bug Scanner Terminal
+
+<div align="center">
+  <img src="./assets/tractor_harvest.svg" width="100%" />
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💻 &nbsp;About Me
 
 <table>
 <tr>
@@ -35,23 +87,23 @@ const ahmed = {
   databases: ["MySQL", "Redis"],
   tools: ["Docker", "Git", "Postman", "Linux"],
   mentored: "500+ trainees",
-  motto: "Clean code is not written by following rules.
-          It is written by passion."
+  motto: "Clean code is not written by following
+          rules. It is written by passion."
 };
 ```
 
 </td>
-<td width="45%">
+<td width="45%" align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/developer.gif?raw=true" width="350" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/developer.gif" width="340" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> &nbsp;Experience Timeline
+## 🧑‍💼 &nbsp;Experience Timeline
 
 <div align="center">
 <table>
@@ -61,9 +113,9 @@ const ahmed = {
 <img src="https://img.shields.io/badge/DIGITAL_BOND_ARCH-0D1117?style=for-the-badge&logo=buffer&logoColor=10B981" /><br/><br/>
 <img src="https://img.shields.io/badge/Senior_Backend_Developer-10B981?style=flat-square&logoColor=white" /><br/>
 <sub><b>Sep 2025 – Present</b></sub><br/><br/>
-<sub>Optimized 10+ enterprise systems</sub><br/>
-<sub>Reduced response time by 30%</sub><br/>
-<sub>Architected microservice solutions</sub>
+<sub>✅ Optimized 10+ enterprise systems</sub><br/>
+<sub>✅ Reduced response time by 30%</sub><br/>
+<sub>✅ Architected microservice solutions</sub>
 
 </td>
 <td align="center" width="50%">
@@ -71,18 +123,18 @@ const ahmed = {
 <img src="https://img.shields.io/badge/ROUTE_ACADEMY-0D1117?style=for-the-badge&logo=academia&logoColor=4F46E5" /><br/><br/>
 <img src="https://img.shields.io/badge/Team_Leader_of_Mentors-4F46E5?style=flat-square&logoColor=white" /><br/>
 <sub><b>Feb 2023 – Present</b></sub><br/><br/>
-<sub>Led team of 20+ mentors</sub><br/>
-<sub>Mentored 500+ successful trainees</sub><br/>
-<sub>Developed training curriculum</sub>
+<sub>✅ Led team of 20+ mentors</sub><br/>
+<sub>✅ Mentored 500+ successful trainees</sub><br/>
+<sub>✅ Developed training curriculum</sub>
 
 </td>
 </tr>
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Stack
+## 🧰 &nbsp;Tech Stack
 
 <div align="center">
 
@@ -97,7 +149,7 @@ const ahmed = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🏗️ &nbsp;Major Projects
 
@@ -146,7 +198,7 @@ const ahmed = {
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 &nbsp;GitHub Analytics
 
@@ -173,7 +225,19 @@ const ahmed = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzy23&bg_color=0D1117&color=10B981&line=4F46E5&point=10B981&area_color=4F46E5&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🧊 &nbsp;3D Contribution Map
 
@@ -181,17 +245,9 @@ const ahmed = {
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## ♟️ &nbsp;Chess Strategy
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Chess.gif?raw=true" width="350" alt="Chess Animation" />
-  <br/><br/>
-  <i>"Chess is like code: every move requires strategy and precision."</i>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=24&fontColor=ffffff&fontAlignY=55&animation=twinkling" width="100%" />
