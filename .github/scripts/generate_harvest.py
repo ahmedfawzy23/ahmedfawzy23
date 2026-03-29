@@ -1,35 +1,18 @@
 import os
-import requests
-import json
-from datetime import datetime, timedelta
-
-def get_contributions():
-    # كود لجلب بيانات المساهمات من GitHub API
-    # (تم تبسيطه لغرض المحاكاة ليعمل فوراً)
-    return [5, 2, 0, 8, 1, 4, 10] # مثال للبيانات
 
 def generate_svg():
-    # إعدادات الألوان (ألوان المزرعة والحصاد)
-    colors = {
-        'empty': '#3d2b1f',   # تربة بنية
-        'plowed': '#5c4033',  # تربة محروثة
-        'sprout': '#90EE90',  # شتلة خضراء
-        'crop': '#228B22',    # نبات أخضر
-        'harvest': '#FFD700'  # حصاد ذهبي (للكوميتس الكبيرة)
-    }
+    colors = ['#3d2b1f', '#5c4033', '#90EE90', '#228B22', '#FFD700']
     
-    # بناء الـ SVG
-    svg_content = f"""
-    <svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
-        <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
-        <text x="20" y="30" fill="white" font-family="Arial">🚜 Tractor Harvest: Harvesting Commits...</text>
-        <rect x="50" y="50" width="700" height="80" fill="{colors['empty']}" rx="5"/>
-        <text x="70" y="100" fill="{colors['harvest']}" font-size="40">🚜 🌾 🌾 🌾 🌾 🌾 🌾</text>
-    </svg>
-    """
+    svg_content = """<svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+    <rect x="20" y="40" width="760" height="90" fill="#3d2b1f" rx="5"/>
+    <text x="30" y="30" fill="#90EE90" font-family="Arial" font-weight="bold">🚜 Ahmed's Code Farm: Harvesting Solutions...</text>
+    <text x="50" y="100" font-size="45">🚜  🌾  🌱  🌾  🌱  🌾  🌱  🌾</text>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" />
+    </svg>"""
     
-    os.makedirs('output', exist_ok=True)
-    with open('output/tractor_harvest.svg', 'w') as f:
+    os.makedirs('assets', exist_ok=True)
+    with open('assets/tractor_harvest.svg', 'w', encoding='utf-8') as f:
         f.write(svg_content)
 
 if __name__ == "__main__":
