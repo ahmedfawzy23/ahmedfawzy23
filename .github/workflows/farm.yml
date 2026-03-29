@@ -1,0 +1,47 @@
+name: Generate Tractor Harvest Animation
+
+on:
+  # بيشتغل تلقائياً كل 24 ساعة
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # بيسمح لك تشغله يدوياً من الـ Actions tab
+  workflow_dispatch:
+  
+  # بيشتغل مع كل Push على الـ main
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Generate Harvest Animation
+        run: python .github/scripts/generate_harvest.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
