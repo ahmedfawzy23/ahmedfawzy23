@@ -1,75 +1,125 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Ahmed%20Fawzy&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Architect%20|%20PHP%20%26%20Laravel%20Expert" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Ahmed%20Fawzy&fontSize=80&fontColor=ffffff&autoSize=true&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Architect%20|%20PHP%20%26%20Laravel%20Expert" />
 </div>
 
 <div align="center">
-  <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLzz8CXTL1M1yE/giphy.gif" width="30"></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Architecting+Scalable+Solutions;3%2B+Years+of+Laravel+Expertise;Team+Leader+%26+Backend+Mentor" />
+  <h1>Hi there, I'm Ahmed! <img src="https://media.giphy.com/media/hvRJCLzz8CXTL1M1yE/giphy.gif" width="30"></h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Architecting+Scalable+Solutions;3%2B+Years+of+Laravel+Expertise;Senior+Mentor+%26+Team+Leader" />
 </div>
 
----
-
-### 🐍 The Contribution Snake (Animation)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <p>Experienced Back-End Developer specializing in PHP and Laravel. High-performance application architect and technical mentor.</p>
 </div>
 
 ---
 
-### ♟️ The Architect's Challenge (Play Chess!)
 <div align="center">
-  <p>To start a game or make a move, click on a piece! (Requires starting a game via an Issue first)</p>
-  
-<!-- CHESS-BOARD:START -->
-<!-- CHESS-BOARD:END -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=🏛️%20EXPERIENCE%20TIMELINE&fontSize=25&fontColor=10B981&fontAlignY=50" />
+</div>
 
-  <br />
+<br/>
 
+<div align="center">
   <table>
     <tr>
       <td width="50%">
-        <strong>Last Moves</strong><br/>
-        <!-- CHESS-LAST-MOVES:START -->
-        <!-- CHESS-LAST-MOVES:END -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=10B981&center=false&vCenter=true&width=400&lines=DIGITAL+BOND+ARCH" /><br/>
+        <b>Senior Backend Developer</b><br/>
+        <i>Sep 2025 – Present</i><br/>
+        Optimized 10+ systems, -30% response time.
       </td>
       <td width="50%">
-        <strong>Statistics</strong><br/>
-        <!-- CHESS-STATS:START -->
-        <!-- CHESS-STATS:END -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=4F46E5&center=false&vCenter=true&width=400&lines=ROUTE+ACADEMY+LEAD" /><br/>
+        <b>Team Leader of Mentors</b><br/>
+        <i>Feb 2023 – Present</i><br/>
+        Mentored 500+ successful trainees.
       </td>
     </tr>
   </table>
-  
-  <p>👉 <b>How to start:</b> Open an <a href="https://github.com/ahmedfawzy23/ahmedfawzy23/issues/new?title=Chess:+Start+new+game">issue with the title "Chess: Start new game"</a> to begin!</p>
 </div>
 
 ---
 
-### 🏢 Professional Experience
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=🐍%20CONTRIBUTION%20SNAKE&fontSize=25&fontColor=10B981&fontAlignY=50" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=10B981&center=false&vCenter=true&width=400&lines=Digital+Bond+Architecture" />
+<br/>
 
-- **Back-End Developer (Full-time)** | *Sep 2025 – Present*
-- Built and optimized **10+ systems**, reducing response times by **30%**.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=4F46E5&center=false&vCenter=true&width=400&lines=Route+Academy+Leadership" />
-
-- **Team Leader of Mentors** | *Feb 2023 – Present*
-- Mentored **500+ trainees**, scoring **90%+ satisfaction**.
-
----
-
-### 🚀 Key Projects
-
-- **WHOIPC Monitoring & Evaluation**
-  - Architected a dynamic survey engine for nationwide healthcare audits.
-- **laravel-roles-permissions**
-  - Flexible roles and permissions package with API support.
-  - [View on GitHub](https://github.com/ahmedfawzy23/laravel-roles-permissions)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-### 📊 The Blueprint of Activity (Stats)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=♟️%20CHESS%20MATCH&fontSize=25&fontColor=10B981&fontAlignY=50" />
+</div>
+
+<br/>
+
+<div align="center">
+<!-- CHESS-BOARD:START -->
+<!-- CHESS-BOARD:END -->
+  <p>👉 <b>Wanna play?</b> <a href="https://github.com/ahmedfawzy23/ahmedfawzy23/issues/new?title=Chess:+Start+new+game">Open an Issue to challenge me!</a></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=🛠️%20TECHNICAL%20ZELLIGE&fontSize=25&fontColor=10B981&fontAlignY=50" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,java,cpp,py,js,html,css,wordpress,docker,git,postman,vite,tailwind,bootstrap,figma,ubuntu" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=🚀%20MAJOR%20PROJECTS&fontSize=25&fontColor=10B981&fontAlignY=50" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>WHOIPC Survey Engine</b><br/>
+        Nationwide Healthcare Audits
+      </td>
+      <td align="center">
+        <b>laravel-roles-permissions</b><br/>
+        Open Source Security Package
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>Zi Sushi Ordering</b><br/>
+        Loyalty & Delivery Systems
+      </td>
+      <td align="center">
+        <b>Meditrade</b><br/>
+        Global Trade Platform
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=📊%20VITAL%20STATISTICS&fontSize=25&fontColor=10B981&fontAlignY=50" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Graph" />
@@ -78,36 +128,30 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfawzy23&show_icons=true&theme=dracula&bg_color=111827&title_color=10B981&icon_color=4F46E5&text_color=E5E7EB" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzy23&theme=dracula&background=111827&fire=10B981&ring=4F46E5&sideNums=E5E7EB" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfawzy23&show_icons=true&theme=tokyonight&bg_color=111827&title_color=10B981&icon_color=4F46E5&text_color=E5E7EB" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzy23&theme=tokyonight&background=111827&fire=10B981&ring=4F46E5&sideNums=E5E7EB" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzy23&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" width="100%" />
 </div>
 
 ---
 
-### 🛠️ Technical Stack
-
-- **Languages**: `PHP`, `Java`, `C++`, `Python`, `SQL`
-- **Frameworks**: `Laravel`, `WordPress`, `Livewire`, `Filament`
-- **Tools**: `Docker`, `Git`, `Postman`, `Vite`
-
----
-
-### ✉️ Connect with Me
-
 <div align="center">
-  <a href="mailto:01ahmedfawzy23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ahmedfawzy23">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="tel:+201274106118">
-    <img src="https://img.shields.io/badge/WhatsApp-10B981?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=✉️%20INFRASTRUCTURE%20CONNECT&fontSize=25&fontColor=10B981&fontAlignY=50" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=100&section=footer&text=Keep+Architecting+%E2%9A%99%EF%B8%8F&fontSize=30&fontColor=ffffff&fontAlignY=60" />
+  <a href="mailto:01ahmedfawzy23@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=10B981" /></a>
+  <a href="https://linkedin.com/in/ahmedfawzy23"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=10B981" /></a>
+  <a href="https://github.com/ahmedfawzy23"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=10B981" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=100&section=footer&text=Architecting+the+Future+%E2%9A%99%EF%B8%8F&fontSize=30&fontColor=ffffff&fontAlignY=60" />
 </div>
