@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Ahmed%20Fawzy&fontSize=80&fontColor=ffffff&autoSize=true&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Architect%20|%20PHP%20%26%20Laravel%20Expert" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Ahmed%20Fawzy&fontSize=80&fontColor=ffffff&autoSize=true&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Architect%20%7C%20PHP%20%26%20Laravel%20Expert" />
 </div>
 
 <div align="center">
@@ -14,7 +14,22 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=🏛️%20EXPERIENCE%20TIMELINE&fontSize=25&fontColor=10B981&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=%E2%99%9F%EF%B8%8F%20CHESS%20STRATEGY&fontSize=25&fontColor=10B981&fontAlignY=50" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN3Y3R3Z3d3Z3d3Z3d3Z3d3Z3d3Z3d3Z3d3Z3d3Z3d3Z3d3Jm0AcG9zPTYmY29udGVudD04MTU0NjY1/Lp9bVf1y3J6j8Z9S1P/giphy.gif" width="400" alt="Chess Animation" />
+  <p><i>"Chess is like code: every move requires strategy and precision."</i></p>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=%F0%9F%8F%9B%EF%B8%8F%20EXPERIENCE%20TIMELINE&fontSize=25&fontColor=10B981&fontAlignY=50" />
 </div>
 
 <br/>
@@ -41,37 +56,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=🐍%20CONTRIBUTION%20SNAKE&fontSize=25&fontColor=10B981&fontAlignY=50" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=♟️%20CHESS%20MATCH&fontSize=25&fontColor=10B981&fontAlignY=50" />
-</div>
-
-<br/>
-
-<div align="center">
-<!-- CHESS-BOARD:START -->
-<!-- CHESS-BOARD:END -->
-  <p>👉 <b>Wanna play?</b> <a href="https://github.com/ahmedfawzy23/ahmedfawzy23/issues/new?title=Chess:+Start+new+game">Open an Issue to challenge me!</a></p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=🛠️%20TECHNICAL%20ZELLIGE&fontSize=25&fontColor=10B981&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECHNICAL%20STACK&fontSize=25&fontColor=10B981&fontAlignY=50" />
 </div>
 
 <br/>
@@ -83,7 +68,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=🚀%20MAJOR%20PROJECTS&fontSize=25&fontColor=10B981&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=%F0%9F%9A%80%20MAJOR%20PROJECTS&fontSize=25&fontColor=10B981&fontAlignY=50" />
 </div>
 
 <br/>
@@ -116,13 +101,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=📊%20VITAL%20STATISTICS&fontSize=25&fontColor=10B981&fontAlignY=50" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=%F0%9F%93%8A%20VITAL%20STATISTICS&fontSize=25&fontColor=10B981&fontAlignY=50" />
 </div>
 
 <br/>
@@ -139,7 +118,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=✉️%20INFRASTRUCTURE%20CONNECT&fontSize=25&fontColor=10B981&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=50&section=header&text=%E2%9C%89%EF%B8%8F%20INFRASTRUCTURE%20CONNECT&fontSize=25&fontColor=10B981&fontAlignY=50" />
 </div>
 
 <br/>
