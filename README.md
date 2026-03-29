@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=php+artisan+serve+--host=world+🚀;Crafting+Elegant+Laravel+Applications+🏗️;3%2B+Years+of+Artisan+Mastery+🔥" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&width=700&height=50&lines=php+artisan+serve+--host%3Dworld;Crafting+Elegant+Laravel+Applications;3%2B+Years+of+Artisan+Mastery" />
 </div>
 
 <br/>
@@ -201,26 +201,26 @@ class AhmedFawzy extends SeniorDeveloper
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzy23&background=0D1117&fire=FF2D20&ring=FF2D20&sideNums=C9D1D9&currStreakLabel=FF2D20&border=1F2937&stroke=FF2D20&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true&cache_seconds=86400" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ahmedfawzy23&background=0D1117&fire=FF2D20&ring=FF2D20&sideNums=C9D1D9&currStreakLabel=FF2D20&border=1F2937&stroke=FF2D20&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzy23&layout=compact&bg_color=0D1117&title_color=FF2D20&text_color=C9D1D9&border_color=1F2937&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzy23&layout=compact&bg_color=0D1117&title_color=FF2D20&text_color=C9D1D9&border_color=1F2937&langs_count=8&cache_seconds=86400" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzy23&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzy23&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&cache_seconds=86400" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzy23&bg_color=0D1117&color=FF2D20&line=FF2D20&point=ffffff&area_color=FF2D20&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzy23&bg_color=0D1117&color=FF2D20&line=FF2D20&point=ffffff&area_color=FF2D20&area=true&hide_border=true&custom_title=Contribution+Graph" width="100%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
