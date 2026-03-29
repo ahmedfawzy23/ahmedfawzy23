@@ -8,10 +8,14 @@
 
 ---
 
-### 🚜 My Contribution Farm
+---
+
+### 🏹 Bug Hunters Shell (`laravel-dev`)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/main/assets/tractor_harvest.svg" width="100%" alt="Tractor Harvest" />
+  <img src="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/main/assets/tractor_harvest.svg" width="100%" alt="Bug Hunter Terminal" />
 </div>
+
+---
 
 ---
 
