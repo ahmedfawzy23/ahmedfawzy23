@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=230&section=header&text=Ahmed%20Fawzy&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Mid--Level%20Laravel%20Developer%20%7C%20Building%20the%20Web%20with%20Artisan%20Precision&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=180&section=header&text=Ahmed%20Fawzy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Mid--Level%20Laravel%20Developer%20%7C%20Building%20the%20Web%20with%20Artisan%20Precision&descSize=15&descAlignY=52&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Giza,_Egypt-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Giza,_Egypt-1a1a2e?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=ahmedfawzy23&style=flat-square&color=FF2D20&label=Profile+Views" />
 </div>
 
@@ -18,30 +18,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&width=700&height=50&lines=php+artisan+serve+--host%3Dworld;3%2B+Years+of+Laravel+Architecture;Mentored+500%2B+Developers;Open+Source+Contributor" />
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-
-## 🛡️ &nbsp;Bug Scanner Terminal
-
-<div align="center">
-  <img src="./assets/tractor_harvest.svg" width="100%" />
 </div>
 
 <br/>
@@ -104,7 +80,7 @@ class AhmedFawzy extends MidLevelDeveloper
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+---
 
 ## 🧑‍💼 &nbsp;Experience
 
@@ -126,7 +102,7 @@ class AhmedFawzy extends MidLevelDeveloper
 
 <img src="./assets/route-academy-logo.png" width="80" /><br/>
 <b>Route Academy</b><br/><br/>
-<img src="https://img.shields.io/badge/PHP_Mentor_—_Team_Leader_(Part--time)-FF2D20?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/PHP_Mentor_—_Team_Leader_(Part--time)-F97316?style=flat-square&logoColor=white" /><br/>
 <sub><b>Feb 2023 – Present · Dokki, Egypt (Hybrid)</b></sub><br/><br/>
 <sub>✅ Mentored 500+ trainees — 90%+ satisfaction score</sub><br/>
 <sub>✅ Led team of 3+ mentors across all cohorts</sub><br/>
@@ -149,7 +125,7 @@ class AhmedFawzy extends MidLevelDeveloper
 
 <img src="./assets/elevate-tech-logo.png" width="80" /><br/>
 <b>Elevate Tech</b><br/><br/>
-<img src="https://img.shields.io/badge/Back--End_Developer_(Project--based)-FF2D20?style=flat-square&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Back--End_Developer_(Project--based)-F97316?style=flat-square&logoColor=white" /><br/><br/>
 <sub>✅ Delivered high-performance backend solutions for diverse clients</sub><br/>
 <sub>✅ Translated business requirements into robust architectures</sub><br/>
 <sub>✅ Tailored solutions per project needs</sub>
@@ -159,7 +135,7 @@ class AhmedFawzy extends MidLevelDeveloper
 </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+---
 
 ## 🎓 &nbsp;Education
 
@@ -187,7 +163,7 @@ class AhmedFawzy extends MidLevelDeveloper
 </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+---
 
 ## 🧰 &nbsp;Tech Arsenal
 
@@ -210,7 +186,7 @@ class AhmedFawzy extends MidLevelDeveloper
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+---
 
 ## 🏗️ &nbsp;Projects
 
@@ -231,7 +207,7 @@ class AhmedFawzy extends MidLevelDeveloper
 <img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/🔐_laravel--roles--permissions-1a1a2e?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/🔐_laravel--roles--permissions-F97316?style=for-the-badge" /><br/><br/>
 <sub><b>Open Source Laravel Package</b></sub><br/><br/>
 <sub>A powerful, flexible roles & permissions package for</sub><br/>
 <sub>Laravel apps with built-in API support.</sub><br/>
@@ -254,7 +230,7 @@ class AhmedFawzy extends MidLevelDeveloper
 <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white" />
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/🌍_Meditrade-1a1a2e?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/🌍_Meditrade-F97316?style=for-the-badge" /><br/><br/>
 <sub><b>Import/Export Trading Platform</b></sub><br/><br/>
 <sub>Developed RESTful APIs & dynamic backend for an</sub><br/>
 <sub>import/export platform with full CRUD for sectors,</sub><br/>
@@ -264,6 +240,15 @@ class AhmedFawzy extends MidLevelDeveloper
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </td>
 </tr>
+
+</table>
+</div>
+
+<details>
+<summary><b>View More Projects</b></summary>
+<br/>
+<div align="center">
+<table>
 
 <tr>
 <td align="center" width="50%">
@@ -278,7 +263,7 @@ class AhmedFawzy extends MidLevelDeveloper
 <img src="https://img.shields.io/badge/Multi--Country-1a1a2e?style=flat-square&logoColor=white" />
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/🇦🇪_Edugate_(UAE)-1a1a2e?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/🇦🇪_Edugate_(UAE)-F97316?style=for-the-badge" /><br/><br/>
 <sub><b>Bilingual Admission Platform</b></sub><br/><br/>
 <sub>Developed a bilingual admission platform with advanced</sub><br/>
 <sub>search & automated student application workflows.</sub><br/>
@@ -300,7 +285,7 @@ class AhmedFawzy extends MidLevelDeveloper
 <img src="https://img.shields.io/badge/Multi--lang-1a1a2e?style=flat-square&logoColor=white" />
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/📚_E--train_–_Course_Booking-1a1a2e?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/📚_E--train_–_Course_Booking-F97316?style=for-the-badge" /><br/><br/>
 <sub><b>Online Course Booking System</b></sub><br/><br/>
 <sub>Complete booking system with secure auth, course</sub><br/>
 <sub>browsing & booking. Admin dashboard for course</sub><br/>
@@ -326,35 +311,37 @@ class AhmedFawzy extends MidLevelDeveloper
 
 </table>
 </div>
+</details>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ahmedfawzy23&background=0D1117&fire=FF2D20&ring=FF2D20&sideNums=C9D1D9&currStreakLabel=FF2D20&border=1F2937&stroke=FF2D20&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9" />
+  <img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=F97316&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahmedfawzy23&layout=compact&bg_color=0D1117&title_color=FF2D20&text_color=C9D1D9&border_color=1F2937&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzy23&bg_color=0D1117&color=FF2D20&line=F97316&point=FF2D20&area_color=F97316&area=true&hide_border=true&custom_title=Contribution+Graph" width="100%" />
 </div>
 
-<br/>
+---
+
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=ahmedfawzy23&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ahmedfawzy23/ahmedfawzy23/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzy23&bg_color=0D1117&color=FF2D20&line=FF2D20&point=ffffff&area_color=FF2D20&area=true&hide_border=true&custom_title=Contribution+Graph" width="100%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+---
 
 ## 🧊 &nbsp;3D Contribution Map
 
