@@ -102,7 +102,8 @@ class AhmedFawzy extends SeniorDeveloper
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/DIGITAL_BOND_ARCH-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20" /><br/><br/>
+<img src="./assets/digital-bond-logo.png" width="80" /><br/>
+<b>Digital Bond Arch</b><br/><br/>
 <img src="https://img.shields.io/badge/Senior_Backend_Developer-FF2D20?style=flat-square&logoColor=white" /><br/>
 <sub><b>Sep 2025 – Present</b></sub><br/><br/>
 <sub>✅ Optimized 10+ enterprise systems</sub><br/>
@@ -113,7 +114,8 @@ class AhmedFawzy extends SeniorDeveloper
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/ROUTE_ACADEMY-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20" /><br/><br/>
+<img src="./assets/route-academy-logo.png" width="80" /><br/>
+<b>Route Academy</b><br/><br/>
 <img src="https://img.shields.io/badge/Team_Leader_of_Mentors-FF2D20?style=flat-square&logoColor=white" /><br/>
 <sub><b>Feb 2023 – Present</b></sub><br/><br/>
 <sub>✅ Led team of 20+ mentors</sub><br/>
@@ -201,20 +203,20 @@ class AhmedFawzy extends SeniorDeveloper
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=ahmedfawzy23&background=0D1117&fire=FF2D20&ring=FF2D20&sideNums=C9D1D9&currStreakLabel=FF2D20&border=1F2937&stroke=FF2D20&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfawzy23&layout=compact&bg_color=0D1117&title_color=FF2D20&text_color=C9D1D9&border_color=1F2937&langs_count=8&cache_seconds=86400" />
+  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ahmedfawzy23&layout=compact&bg_color=0D1117&title_color=FF2D20&text_color=C9D1D9&border_color=1F2937&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzy23&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&cache_seconds=86400" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=ahmedfawzy23&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" />
 </div>
 
 <br/>
