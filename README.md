@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9&height=180&section=header&text=Ahmed%20Fawzy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Mid--Level%20Laravel%20Developer%20%7C%20Building%20the%20Web%20with%20Artisan%20Precision&descSize=15&descAlignY=52&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9&height=180&section=header&text=Ahmed%20Fawzy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Mid--Level%20Backend%20Developer%20%7C%20Building%20the%20Web%20with%20Artisan%20Precision&descSize=15&descAlignY=52&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -12,6 +12,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Giza,_Egypt-0D1117?style=flat-square&logo=googlemaps&logoColor=FF2D20" />
   <img src="https://komarev.com/ghpvc/?username=ahmedfawzy23&style=flat-square&color=FF2D20&label=Profile+Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🟢_Open_To-Backend_%2F_Laravel_Roles_—_Egypt_or_Remote-FF2D20?style=for-the-badge" />
 </div>
 
 <br/>
@@ -39,10 +45,10 @@ namespace App\Developers;
 
 class AhmedFawzy extends MidLevelDeveloper
 {
-    protected string $role = 'Mid-Level Backend Developer';
+    protected string $role     = 'Mid-Level Backend Developer';
     protected string $location = 'Giza, Egypt';
     protected string $experience = '3+ years';
-    protected string $education = 'Medical Informatics';
+    protected string $education  = 'Medical Informatics';
 
     public function skills(): array
     {
@@ -58,10 +64,13 @@ class AhmedFawzy extends MidLevelDeveloper
     public function achievements(): array
     {
         return [
-            'mentored' => '500+ developers',
-            'projects' => '10+ production systems',
-            'response' => '-30% avg response time',
-            'debt'     => '-40% technical debt',
+            // WHOIPC project — 30+ facility endpoints
+            'response' => '-30% avg response time via caching',
+            // Dotlaa Solution — 5+ client projects
+            'debt'     => '-40% technical debt via code reviews',
+            // Route Academy — 3 cohorts, 2023–present
+            'mentored' => '500+ developers trained',
+            'projects' => '10+ production systems shipped',
         ];
     }
 }
@@ -91,7 +100,7 @@ class AhmedFawzy extends MidLevelDeveloper
 <img src="https://img.shields.io/badge/Full--time-0D1117?style=flat-square" /><br/>
 <sub><b>Sep 2025 – Present · Dokki, Egypt</b></sub><br/><br/>
 <sub>✅ Built & optimized 10+ back-end systems & RESTful APIs</sub><br/>
-<sub>✅ Reduced response time by 30% via caching & query optimization</sub><br/>
+<sub>✅ Reduced response time by 30% on WHOIPC project via caching & query optimization</sub><br/>
 <sub>✅ Ensured seamless front-end integration & system reliability</sub>
 
 </td>
@@ -102,7 +111,7 @@ class AhmedFawzy extends MidLevelDeveloper
 <img src="https://img.shields.io/badge/PHP_Mentor_—_Team_Leader-F97316?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Part--time-0D1117?style=flat-square" /><br/>
 <sub><b>Feb 2023 – Present · Dokki, Egypt (Hybrid)</b></sub><br/><br/>
-<sub>✅ Mentored 500+ trainees — 90%+ satisfaction score</sub><br/>
+<sub>✅ Mentored 500+ trainees across 3 cohorts — 90%+ satisfaction score</sub><br/>
 <sub>✅ Led team of 3+ mentors across all cohorts</sub><br/>
 <sub>✅ Coordinated curriculum delivery & training quality</sub>
 
@@ -171,7 +180,7 @@ class AhmedFawzy extends MidLevelDeveloper
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=php,java,cpp,py,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,js,html,css&theme=dark" />
 
 **Frameworks & CMS**
 <br/>
@@ -215,8 +224,8 @@ class AhmedFawzy extends MidLevelDeveloper
 <sub>Powerful, flexible roles & permissions package for</sub><br/>
 <sub>Laravel apps with built-in API support.</sub><br/>
 <sub>Published on Packagist.</sub><br/><br/>
-<a href="https://packagist.org/packages/fawzy/laravel-roles-permissions"><img src="https://img.shields.io/badge/Packagist-F28D1A?style=flat-square&logo=packagist&logoColor=white" /></a>
-<a href="https://github.com/ahmedfawzy23/laravel-roles-permissions"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://packagist.org/packages/fawzy/laravel-roles-permissions"><img src="https://img.shields.io/packagist/dt/fawzy/laravel-roles-permissions?style=flat-square&label=Downloads&color=F28D1A" /></a>
+<a href="https://github.com/ahmedfawzy23/laravel-roles-permissions"><img src="https://img.shields.io/github/stars/ahmedfawzy23/laravel-roles-permissions?style=flat-square&label=Stars&color=F28D1A" /></a><br/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </td>
 </tr>
