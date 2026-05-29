@@ -2,27 +2,61 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9&height=185&section=header&text=Ahmed%20Fawzy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Building%20with%20Artisan%20Precision%20(2%2B%20Years%20Exp)&descSize=15&descAlignY=52&descAlign=50" width="100%" />
 </div>
 
-<div align="center">
-  <a href="mailto:01ahmedfawzy23@gmail.com"><img src="https://img.shields.io/badge/01ahmedfawzy23@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://linkedin.com/in/ahmedfawzy23"><img src="https://img.shields.io/badge/ahmedfawzy23-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://github.com/ahmedfawzy23"><img src="https://img.shields.io/badge/ahmedfawzy23-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-  <a href="tel:+201274106118"><img src="https://img.shields.io/badge/+20_127_410_6118-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Giza,_Egypt-0D1117?style=flat-square&logo=googlemaps&logoColor=FF2D20" />
-  <img src="https://komarev.com/ghpvc/?username=ahmedfawzy23&style=flat-square&color=FF2D20&label=Profile+Views" />
-</div>
-
 <br/>
 
-> [!NOTE]
-> 🟢 **Open to Work**: Back-End / Laravel Developer Roles — Egypt or Remote
+<table width="100%" border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👋 Welcome to my GitHub workspace!</h3>
+      <p>I am a detail-oriented Backend Developer specialized in building robust, high-performance web backends, secure APIs, and custom package structures using Laravel and PHP.</p>
+      
+      <table>
+        <tr>
+          <td>📧 <b>Email</b></td>
+          <td><a href="mailto:01ahmedfawzy23@gmail.com">01ahmedfawzy23@gmail.com</a></td>
+        </tr>
+        <tr>
+          <td>💼 <b>LinkedIn</b></td>
+          <td><a href="https://linkedin.com/in/ahmedfawzy23">linkedin.com/in/ahmedfawzy23</a></td>
+        </tr>
+        <tr>
+          <td>📱 <b>WhatsApp</b></td>
+          <td><a href="https://wa.me/201274106118">+20 127 410 6118</a></td>
+        </tr>
+        <tr>
+          <td>📍 <b>Location</b></td>
+          <td>Giza, Egypt (Open to Remote & Hybrid roles)</td>
+        </tr>
+      </table>
+      
+      <br/>
+      <img src="https://img.shields.io/badge/🟢_Open_To-Backend_%2F_Laravel_Roles_—_Egypt_or_Remote-FF2D20?style=for-the-badge" />
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <div style="border: 2px solid #FF2D20; border-radius: 16px; padding: 15px; background-color: #0D1117; display: inline-block;">
+        <h4 style="margin-top: 0; color: #FF2D20;">📄 Scan or Click for CV</h4>
+        <a href="https://bit.ly/Ahmed_Fawzy_PHP_Laravel_Developer" target="_blank">
+          <img src="./assets/cv_qr.svg" width="160" alt="Scan to view PDF CV" />
+        </a>
+        <br/>
+        <a href="https://bit.ly/Ahmed_Fawzy_PHP_Laravel_Developer" target="_blank"><b>bit.ly/Ahmed_Fawzy_CV</b></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&width=700&height=50&lines=php+artisan+serve+--host%3Dworld;2%2B+Years+of+Laravel+Architecture;Mentored+500%2B+Developers;Open+Source+Contributor" />
+</div>
+
+<br/>
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzy23&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15" width="100%" />
 </div>
 
 <br/>
@@ -93,7 +127,7 @@ class AhmedFawzy extends BackendDeveloper
   <tr>
     <td width="15%" align="center" valign="top">
       <br/>
-      <img src="./assets/digital-bond-logo.png" width="70" style="border-radius: 12px;" />
+      <img src="./assets/digital-bond-logo.png" width="70" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
     </td>
     <td width="85%" valign="top">
       <h3>🚀 Back-End Engineer — Digital Bond</h3>
@@ -109,7 +143,7 @@ class AhmedFawzy extends BackendDeveloper
   <tr>
     <td width="15%" align="center" valign="top">
       <br/>
-      <img src="./assets/route-academy-logo.png" width="70" style="border-radius: 12px;" />
+      <img src="./assets/route-academy-logo.png" width="70" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
     </td>
     <td width="85%" valign="top">
       <h3>🎓 PHP/Laravel Mentor & Lead Mentor — Route Academy</h3>
@@ -125,7 +159,7 @@ class AhmedFawzy extends BackendDeveloper
   <tr>
     <td width="15%" align="center" valign="top">
       <br/>
-      <img src="./assets/elevate-tech-logo.png" width="70" style="border-radius: 12px;" />
+      <img src="./assets/elevate-tech-logo.png" width="70" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
     </td>
     <td width="85%" valign="top">
       <h3>💻 Back-End Developer — Elevate Tech</h3>
@@ -272,11 +306,18 @@ class AhmedFawzy extends BackendDeveloper
 
 <br/>
 
-## 📊 &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics & Streak
 
-<div align="center">
-  <img width="58%" src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=F97316&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=F97316&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzy23&theme=tokyonight&background=0D1117&border=1F2937&ring=FF2D20&fire=F97316" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
