@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:00e6a2,100:0d1117&height=220&section=header&text=Ahmed%20Fawzy&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Laravel%20Architect&descAlignY=58&descSize=22&descColor=a8f0de" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:FF2D20,100:0d1117&height=220&section=header&text=Ahmed%20Fawzy&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Laravel%20Architect&descAlignY=58&descSize=22&descColor=ffb3af" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00e6a2&center=true&vCenter=true&repeat=true&width=680&height=45&lines=php+artisan+serve+--host%3Dworld;2%2B+Years+of+Laravel+Architecture;Building+APIs+for+Real+Production+at+Scale;Mentored+500%2B+Developers+%40+Route+Academy;Open+Source+Contributor+on+Packagist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&width=680&height=45&lines=php+artisan+serve+--host%3Dworld;2%2B+Years+of+Laravel+Architecture;Building+APIs+for+Real+Production+at+Scale;Mentored+500%2B+Developers+%40+Route+Academy;Open+Source+Contributor+on+Packagist" />
 </div>
 
 <br/>
@@ -10,7 +10,7 @@
 <tr>
 <td width="58%" valign="top">
 
-<h3>Hey there, I'm Ahmed 👋</h3>
+<h3>Welcome to my GitHub workspace</h3>
 
 <p>
 Backend Engineer at <strong>Digital Bond</strong> — I architect high-traffic Laravel APIs,
@@ -19,45 +19,45 @@ own engineering standards end-to-end, and mentor the next generation of PHP deve
 
 <table>
   <tr>
-    <td>📧 <b>Email</b></td>
+    <td><b>Email</b></td>
     <td><a href="mailto:01ahmedfawzy23@gmail.com">01ahmedfawzy23@gmail.com</a></td>
   </tr>
   <tr>
-    <td>💼 <b>LinkedIn</b></td>
+    <td><b>LinkedIn</b></td>
     <td><a href="https://linkedin.com/in/ahmedfawzy23">linkedin.com/in/ahmedfawzy23</a></td>
   </tr>
   <tr>
-    <td>💬 <b>WhatsApp</b></td>
+    <td><b>WhatsApp</b></td>
     <td><a href="https://wa.me/201274106118">+20 127 410 6118</a></td>
   </tr>
   <tr>
-    <td>📍 <b>Location</b></td>
+    <td><b>Location</b></td>
     <td>Giza, Egypt — Open to Remote & Hybrid</td>
   </tr>
   <tr>
-    <td>📄 <b>Resume</b></td>
-    <td><a href="https://bit.ly/Ahmed_Fawzy_PHP_Laravel_Developer"><strong>⬇ Download PDF CV</strong></a></td>
+    <td><b>Resume</b></td>
+    <td><a href="https://bit.ly/Ahmed_Fawzy_PHP_Laravel_Developer"><strong>Download PDF CV</strong></a></td>
   </tr>
 </table>
 
 <br/>
 
-> 🟢 **Available** — Actively seeking Backend / Laravel roles (Egypt or Remote)
+> **Available** — Actively seeking Backend / Laravel roles (Egypt or Remote)
 
 </td>
 <td width="42%" align="center" valign="middle">
 
 <a href="https://bit.ly/Ahmed_Fawzy_PHP_Laravel_Developer" target="_blank">
-  <img src="./assets/cv_qr.png" width="155" alt="Scan for CV" style="border-radius:12px;border:2px solid #00e6a2;" />
+  <img src="./assets/cv_qr.png" width="155" alt="Scan for CV" style="border-radius:12px;border:2px solid #FF2D20;" />
 </a>
 
 <br/>
 
-<sub><b>📱 Scan or <a href="https://bit.ly/Ahmed_Fawzy_PHP_Laravel_Developer">click here</a> for CV</b></sub>
+<sub><b>Scan or <a href="https://bit.ly/Ahmed_Fawzy_PHP_Laravel_Developer">click here</a> for CV</b></sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedfawzy23&label=Profile+Views&color=00e6a2&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ahmedfawzy23&label=Profile+Views&color=FF2D20&style=flat-square" alt="Profile views" />
 
 </td>
 </tr>
@@ -65,11 +65,11 @@ own engineering standards end-to-end, and mentor the next generation of PHP deve
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:111827&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0a09&height=2&section=header" width="100%"/>
 
 <br/>
 
-## 🧠 About Me
+## About Me
 
 <table width="100%">
 <tr>
@@ -101,10 +101,10 @@ class AhmedFawzy extends BackendDeveloper
     public function wins(): array
     {
         return [
-            '-30% response time'  => 'Redis caching @ WHOIPC',
+            '-30% response time'   => 'Redis caching @ WHOIPC',
             '-25% regression bugs' => 'PR reviews @ Digital Bond',
-            '500+ devs trained'   => 'Route Academy cohorts',
-            '10+ shipped systems' => 'Production-grade APIs',
+            '500+ devs trained'    => 'Route Academy cohorts',
+            '10+ shipped systems'  => 'Production-grade APIs',
         ];
     }
 }
@@ -113,7 +113,7 @@ class AhmedFawzy extends BackendDeveloper
 </td>
 <td width="46%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding" />
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ class AhmedFawzy extends BackendDeveloper
 
 <br/>
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -132,11 +132,11 @@ class AhmedFawzy extends BackendDeveloper
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:111827&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0a09&height=2&section=header" width="100%"/>
 
 <br/>
 
-## 💼 Professional Experience
+## Professional Experience
 
 <table width="100%">
   <tr>
@@ -184,11 +184,11 @@ class AhmedFawzy extends BackendDeveloper
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:111827&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0a09&height=2&section=header" width="100%"/>
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
@@ -215,15 +215,15 @@ class AhmedFawzy extends BackendDeveloper
         <li>Published & maintained on <b>Packagist</b>.</li>
       </ul>
       <p align="center">
-        <a href="https://packagist.org/packages/fawzy/laravel-roles-permissions"><b>📦 Packagist</b></a> ·
-        <a href="https://github.com/ahmedfawzy23/laravel-roles-permissions"><b>⭐ GitHub</b></a>
+        <a href="https://packagist.org/packages/fawzy/laravel-roles-permissions"><b>Packagist</b></a> ·
+        <a href="https://github.com/ahmedfawzy23/laravel-roles-permissions"><b>GitHub</b></a>
       </p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>🗂 View More Production Projects</b></summary>
+<summary><b>View More Production Projects</b></summary>
 <br/>
 
 <table width="100%">
@@ -282,27 +282,19 @@ class AhmedFawzy extends BackendDeveloper
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:111827&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0a09&height=2&section=header" width="100%"/>
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzy23&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
+## GitHub Analytics
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=00e6a2&icon_color=00e6a2&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true&rank_icon=github" width="100%" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=C9D1D9&border_color=2d1a1a&hide_border=false&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=ahmedfawzy23&theme=tokyonight&background=0D1117&border=1F2937&ring=00e6a2&fire=00e6a2&currStreakLabel=00e6a2&stroke=1F2937" width="100%" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=ahmedfawzy23&theme=dark&background=0D1117&border=2d1a1a&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&stroke=2d1a1a&sideLabels=C9D1D9&dates=C9D1D9" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -310,12 +302,12 @@ class AhmedFawzy extends BackendDeveloper
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzy23&bg_color=0D1117&color=00e6a2&line=00e6a2&point=ffffff&area=true&hide_border=true&area_color=00e6a220" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfawzy23&bg_color=0D1117&color=FF2D20&line=FF2D20&point=ffffff&area=true&hide_border=true&area_color=FF2D2020" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -327,4 +319,4 @@ class AhmedFawzy extends BackendDeveloper
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e6a2,50:0d1117,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something%20great&fontSize=20&fontColor=a8f0de&fontAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,50:0d1117,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something%20great&fontSize=20&fontColor=ffb3af&fontAlignY=65&animation=twinkling" />
