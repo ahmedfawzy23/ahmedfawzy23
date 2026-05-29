@@ -6,6 +6,14 @@
 
 <br/>
 
+<div align="center">
+  <img src="./assets/pixel_warrior.png" width="100%" style="border-radius:12px;" alt="Every bug is a boss fight" />
+  <br/>
+  <sub><i>Every bug is a boss fight — and I ship the fix.</i></sub>
+</div>
+
+<br/>
+
 <table width="100%" border="0">
 <tr>
 <td width="58%" valign="top">
@@ -113,7 +121,7 @@ class AhmedFawzy extends BackendDeveloper
 </td>
 <td width="46%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" style="border-radius:12px;" alt="Coding" />
 
 </td>
 </tr>
