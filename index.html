@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Fawzy | Backend Engineer & Laravel Architect</title>
+    <meta name="description" content="Ahmed Fawzy is a Backend Engineer specializing in PHP, Laravel, REST APIs, and database architecture. 2+ years of experience building high-traffic, reliable systems.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header / Navigation -->
+    <header class="header">
+        <div class="container navbar">
+            <a href="#" class="logo">
+                <span class="text-primary">&lt;</span>AhmedFawzy<span class="text-primary"> /&gt;</span>
+            </a>
+            
+            <nav class="nav-menu" id="nav-menu">
+                <a href="#about" class="nav-link">About</a>
+                <a href="#experience" class="nav-link">Experience</a>
+                <a href="#projects" class="nav-link">Projects</a>
+                <a href="#skills" class="nav-link">Skills</a>
+                <a href="#contact" class="nav-link btn-contact-nav">Get In Touch</a>
+            </nav>
+
+            <div class="nav-actions">
+                <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark/light mode">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle navigation menu">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Nav Overlay -->
+    <div class="mobile-nav" id="mobile-nav">
+        <a href="#about" class="mobile-link">About</a>
+        <a href="#experience" class="mobile-link">Experience</a>
+        <a href="#projects" class="mobile-link">Projects</a>
+        <a href="#skills" class="mobile-link">Skills</a>
+        <a href="#contact" class="mobile-link">Contact</a>
+    </div>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="hero-section" id="hero">
+            <div class="container hero-grid">
+                <div class="hero-content">
+                    <div class="badge-laravel">
+                        <i class="fab fa-laravel text-primary"></i> <span>Laravel & PHP Specialist</span>
+                    </div>
+                    <h1 class="hero-title">
+                        Building Scalable <br>
+                        <span class="text-gradient">Backend Systems</span> <br>
+                        with Artisan Precision.
+                    </h1>
+                    <p class="hero-description">
+                        Backend Engineer with 2+ years of experience designing high-traffic RESTful APIs, optimized database structures, and production-grade architectures. 
+                    </p>
+                    <div class="hero-buttons">
+                        <a href="#projects" class="btn btn-primary">View Projects</a>
+                        <a href="#contact" class="btn btn-secondary">Contact Me</a>
+                    </div>
+                    <div class="hero-socials">
+                        <a href="mailto:01ahmedfawzy23@gmail.com" title="Gmail"><i class="fas fa-envelope"></i></a>
+                        <a href="https://linkedin.com/in/ahmedfawzy23" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://github.com/ahmedfawzy23" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                        <a href="https://wa.me/201274106118" target="_blank" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+                    </div>
+                </div>
+
+                <!-- Interactive Terminal Simulator -->
+                <div class="terminal-wrapper">
+                    <div class="terminal-header">
+                        <div class="terminal-dots">
+                            <span class="dot red"></span>
+                            <span class="dot yellow"></span>
+                            <span class="dot green"></span>
+                        </div>
+                        <span class="terminal-title">ahmedfawzy@artisan: ~</span>
+                        <div class="terminal-badge"><i class="fab fa-laravel"></i> php v8.2</div>
+                    </div>
+                    <div class="terminal-body" id="terminal-body">
+                        <div class="terminal-line text-muted">// Welcome to Ahmed Fawzy's interactive terminal portfolio.</div>
+                        <div class="terminal-line text-muted">// Type <span class="text-secondary">'help'</span> to see list of commands.</div>
+                        <div class="terminal-line">&nbsp;</div>
+                        <div class="terminal-line">
+                            <span class="terminal-prompt">guest@laravel:~$</span>
+                            <span class="terminal-output-typed">php artisan about</span>
+                        </div>
+                        <div class="terminal-output-block animate-fade-in">
+                            <div class="terminal-about-card">
+                                <p><span class="text-primary">Name:</span> Ahmed Fawzy</p>
+                                <p><span class="text-primary">Role:</span> Backend Engineer</p>
+                                <p><span class="text-primary">Experience:</span> 2+ Years building Laravel Systems</p>
+                                <p><span class="text-primary">Location:</span> Giza, Egypt</p>
+                                <p><span class="text-primary">Skills:</span> PHP, Laravel, MySQL, REST APIs, Docker, Git</p>
+                                <p><span class="text-primary">Status:</span> Open To Backend / Laravel Roles (Egypt or Remote)</p>
+                            </div>
+                        </div>
+                        
+                        <!-- Dynamic terminal output appended here -->
+                        <div id="terminal-history"></div>
+
+                        <div class="terminal-input-line">
+                            <span class="terminal-prompt">guest@laravel:~$</span>
+                            <div class="input-container">
+                                <input type="text" id="terminal-input" autocomplete="off" spellcheck="false" placeholder="type a command...">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="scroll-indicator">
+                <a href="#about" class="mouse-scroll">
+                    <span class="mouse-wheel"></span>
+                </a>
+            </div>
+        </section>
+
+        <!-- About Me Section -->
+        <section class="about-section" id="about">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-subtitle">Who I Am</span>
+                    <h2 class="section-title">About Me</h2>
+                    <div class="divider"></div>
+                </div>
+
+                <div class="about-grid">
+                    <div class="about-code-card">
+                        <div class="code-header">
+                            <div class="code-tabs">
+                                <span class="code-tab active"><i class="fab fa-php text-blue"></i> AhmedFawzy.php</span>
+                            </div>
+                        </div>
+                        <div class="code-body">
+                            <pre><code><span class="code-keyword">namespace</span> <span class="code-class">App\Developers</span>;
+
+<span class="code-keyword">class</span> <span class="code-class">AhmedFawzy</span> <span class="code-keyword">extends</span> <span class="code-class">BackendDeveloper</span>
+{
+    <span class="code-keyword">protected string</span> <span class="code-variable">$role</span>       = <span class="code-string">'Backend Engineer'</span>;
+    <span class="code-keyword">protected string</span> <span class="code-variable">$location</span>   = <span class="code-string">'Giza, Egypt'</span>;
+    <span class="code-keyword">protected string</span> <span class="code-variable">$experience</span> = <span class="code-string">'2+ years'</span>;
+    <span class="code-keyword">protected string</span> <span class="code-variable">$education</span>  = <span class="code-string">'Medical Informatics'</span>;
+
+    <span class="code-keyword">public function</span> <span class="code-function">skills</span>(): <span class="code-keyword">array</span>
+    {
+        <span class="code-keyword">return</span> [
+            <span class="code-string">'backend'</span>   => [<span class="code-string">'PHP'</span>, <span class="code-string">'Laravel'</span>, <span class="code-string">'REST APIs'</span>],
+            <span class="code-string">'databases'</span> => [<span class="code-string">'MySQL'</span>, <span class="code-string">'SQL Server'</span>, <span class="code-string">'MongoDB'</span>],
+            <span class="code-string">'cms'</span>       => [<span class="code-string">'WordPress'</span>, <span class="code-string">'WooCommerce'</span>],
+            <span class="code-string">'frontend'</span>  => [<span class="code-string">'Blade'</span>, <span class="code-string">'JS'</span>, <span class="code-string">'Bootstrap'</span>],
+            <span class="code-string">'devops'</span>    => [<span class="code-string">'Docker'</span>, <span class="code-string">'Git'</span>, <span class="code-string">'Linux'</span>]
+        ];
+    }
+
+    <span class="code-keyword">public function</span> <span class="code-function">achievements</span>(): <span class="code-keyword">array</span>
+    {
+        <span class="code-keyword">return</span> [
+            <span class="code-string">'response'</span> => <span class="code-string">'-30% avg response time via caching'</span>,
+            <span class="code-string">'bugs'</span>     => <span class="code-string">'-25% regression bugs via team PR reviews'</span>,
+            <span class="code-string">'mentored'</span> => <span class="code-string">'500+ developers trained'</span>,
+            <span class="code-string">'projects'</span> => <span class="code-string">'10+ production systems shipped'</span>
+        ];
+    }
+}</code></pre>
+                        </div>
+                    </div>
+
+                    <div class="about-info">
+                        <h3 class="about-greeting">Developing Robust Systems with Clean Architectures</h3>
+                        <p class="about-text">
+                            I am a detail-oriented Backend Developer specialized in crafting robust, high-performance web backends and API architectures. My focus centers on clean code design (SOLID principles), efficient query execution, and secure RBAC integration.
+                        </p>
+                        <p class="about-text">
+                            Beyond standard development, I love sharing knowledge. I have mentored over 500 trainees in PHP/Laravel development, assisting them in shipping projects from concept to production while leading teams to follow software engineering best practices.
+                        </p>
+                        
+                        <div class="stats-grid">
+                            <div class="stat-card">
+                                <div class="stat-number">2+</div>
+                                <div class="stat-label">Years Exp</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-number">10+</div>
+                                <div class="stat-label">Shipped Systems</div>
+                            </div>
+                            <div class="stat-card">
+                                <div class="stat-number">500+</div>
+                                <div class="stat-label">Developers Mentored</div>
+                            </div>
+                            <div class="stat-card font-highlight">
+                                <div class="stat-number">-30%</div>
+                                <div class="stat-label">API Latency</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experience Section -->
+        <section class="experience-section" id="experience">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-subtitle">Professional Path</span>
+                    <h2 class="section-title">Work Experience</h2>
+                    <div class="divider"></div>
+                </div>
+
+                <div class="timeline">
+                    <!-- Digital Bond -->
+                    <div class="timeline-item">
+                        <div class="timeline-logo-container">
+                            <img src="./assets/digital-bond-logo.png" alt="Digital Bond Logo" class="timeline-logo">
+                        </div>
+                        <div class="timeline-content">
+                            <span class="timeline-date"><i class="far fa-calendar-alt"></i> Sep 2025 – Present</span>
+                            <h3 class="timeline-role">Back-End Engineer</h3>
+                            <h4 class="timeline-company">Digital Bond <span class="badge badge-fulltime">Full-time</span></h4>
+                            <p class="timeline-location"><i class="fas fa-map-marker-alt"></i> Dokki, Egypt</p>
+                            <ul class="timeline-bullets">
+                                <li>Architected and delivered 10+ production RESTful APIs in Laravel; reduced average endpoint response time by 30% through strategic query optimization, eager loading, and Redis caching.</li>
+                                <li>Established coding standards and PR review process adopted by the full engineering team, cutting regression bugs by an estimated 25%.</li>
+                                <li>Ensured seamless front-end integration & system reliability for enterprise projects, including WHOIPC system.</li>
+                            </ul>
+                            <div class="timeline-tags">
+                                <span class="tag">Laravel</span>
+                                <span class="tag">REST APIs</span>
+                                <span class="tag">Redis</span>
+                                <span class="tag">Query Optimization</span>
+                                <span class="tag">Postman</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Route Academy -->
+                    <div class="timeline-item">
+                        <div class="timeline-logo-container">
+                            <img src="./assets/route-academy-logo.png" alt="Route Academy Logo" class="timeline-logo">
+                        </div>
+                        <div class="timeline-content">
+                            <span class="timeline-date"><i class="far fa-calendar-alt"></i> Feb 2023 – Present</span>
+                            <h3 class="timeline-role">PHP/Laravel Mentor & Lead Mentor</h3>
+                            <h4 class="timeline-company">Route Academy <span class="badge badge-parttime">Part-time</span></h4>
+                            <p class="timeline-location"><i class="fas fa-map-marker-alt"></i> Dokki, Egypt (Hybrid)</p>
+                            <ul class="timeline-bullets">
+                                <li>Mentored 500+ trainees across multiple cohorts; maintained a trainee satisfaction score above 90% through structured workshops and weekly 1-on-1 follow-ups.</li>
+                                <li>Led and coordinated a team of 3+ mentors, owning curriculum planning, session quality reviews, and mentor onboarding.</li>
+                                <li>Supervised graduation projects consisting of high-performance backend systems with full architectural review.</li>
+                            </ul>
+                            <div class="timeline-tags">
+                                <span class="tag">PHP</span>
+                                <span class="tag">Laravel</span>
+                                <span class="tag">System Design</span>
+                                <span class="tag">Mentoring</span>
+                                <span class="tag">Code Reviews</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Elevate Tech -->
+                    <div class="timeline-item">
+                        <div class="timeline-logo-container">
+                            <img src="./assets/elevate-tech-logo.png" alt="Elevate Tech Logo" class="timeline-logo">
+                        </div>
+                        <div class="timeline-content">
+                            <span class="timeline-date"><i class="far fa-calendar-alt"></i> Jan 2025 – Jan 2026</span>
+                            <h3 class="timeline-role">Back-End Developer</h3>
+                            <h4 class="timeline-company">Elevate Tech <span class="badge badge-freelance">Freelance</span></h4>
+                            <p class="timeline-location"><i class="fas fa-map-marker-alt"></i> Remote</p>
+                            <ul class="timeline-bullets">
+                                <li>Delivered backend solutions for 3+ freelance clients, translating business requirements into maintainable Laravel architectures.</li>
+                                <li>Built and integrated secure payment gateways, dynamic bilingual CMS platforms, and optimized relational databases.</li>
+                            </ul>
+                            <div class="timeline-tags">
+                                <span class="tag">Laravel</span>
+                                <span class="tag">MySQL</span>
+                                <span class="tag">REST APIs</span>
+                                <span class="tag">Bilingual APIs</span>
+                                <span class="tag">Git</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Showcase Section -->
+        <section class="projects-section" id="projects">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-subtitle">My Work</span>
+                    <h2 class="section-title">Selected Projects</h2>
+                    <div class="divider"></div>
+                </div>
+
+                <!-- Projects Filter -->
+                <div class="project-filters">
+                    <button class="filter-btn active" data-filter="all">All Projects</button>
+                    <button class="filter-btn" data-filter="laravel">Laravel / PHP</button>
+                    <button class="filter-btn" data-filter="opensource">Open Source</button>
+                    <button class="filter-btn" data-filter="ai">AI & Python</button>
+                </div>
+
+                <!-- Projects Grid -->
+                <div class="projects-grid">
+                    <!-- Project 1: WHO IPC -->
+                    <div class="project-card" data-category="laravel">
+                        <div class="project-info">
+                            <div class="project-meta">
+                                <span class="project-type"><i class="fas fa-hospital"></i> Healthcare System</span>
+                            </div>
+                            <h3 class="project-title">WHO IPC Monitoring & Evaluation</h3>
+                            <p class="project-desc">
+                                A national-scale infection prevention audit platform built for the World Health Organization (Egypt), digitizing IPC assessments across hundreds of healthcare facilities.
+                            </p>
+                            <ul class="project-details">
+                                <li><i class="fas fa-check text-primary"></i> Dynamic survey engine with conditional logic & automated scoring</li>
+                                <li><i class="fas fa-check text-primary"></i> Hierarchical RBAC (National, Regional & Facility admin levels)</li>
+                                <li><i class="fas fa-check text-primary"></i> FCM integration for real-time high-risk alerts & action plans</li>
+                            </ul>
+                            <div class="project-tech-tags">
+                                <span>Laravel</span>
+                                <span>REST APIs</span>
+                                <span>MySQL</span>
+                                <span>Firebase FCM</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project 2: Roles package -->
+                    <div class="project-card" data-category="opensource">
+                        <div class="project-info">
+                            <div class="project-meta">
+                                <span class="project-type"><i class="fas fa-box-open"></i> Laravel Package</span>
+                                <div class="project-links">
+                                    <a href="https://github.com/ahmedfawzy23/laravel-roles-permissions" target="_blank" title="GitHub Source"><i class="fab fa-github"></i></a>
+                                    <a href="https://packagist.org/packages/fawzy/laravel-roles-permissions" target="_blank" title="Packagist"><i class="fas fa-external-link-alt"></i></a>
+                                </div>
+                            </div>
+                            <h3 class="project-title">laravel-roles-permissions</h3>
+                            <p class="project-desc">
+                                A highly flexible and developer-friendly roles & permissions package for Laravel applications with built-in API support and lightweight cache-driven execution.
+                            </p>
+                            <ul class="project-details">
+                                <li><i class="fas fa-check text-primary"></i> Published open-source package on Packagist</li>
+                                <li><i class="fas fa-check text-primary"></i> Supports direct Blade directives and API middleware checks</li>
+                                <li><i class="fas fa-check text-primary"></i> Dynamic query builder extensions for authorization scoping</li>
+                            </ul>
+                            <div class="project-tech-tags">
+                                <span>Laravel</span>
+                                <span>PHP</span>
+                                <span>Packagist</span>
+                                <span>Open Source</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project 3: Meditrade -->
+                    <div class="project-card" data-category="laravel">
+                        <div class="project-info">
+                            <div class="project-meta">
+                                <span class="project-type"><i class="fas fa-ship"></i> Trading Platform</span>
+                            </div>
+                            <h3 class="project-title">Meditrade Portal</h3>
+                            <p class="project-desc">
+                                Design and backend engineering for an import/export trading platform featuring robust inventory structures and multilingual dynamic APIs.
+                            </p>
+                            <ul class="project-details">
+                                <li><i class="fas fa-check text-primary"></i> Full bilingual (AR/EN) content rendering and JSON payloads</li>
+                                <li><i class="fas fa-check text-primary"></i> Dynamic media management and automated CDN distribution schemas</li>
+                                <li><i class="fas fa-check text-primary"></i> High-performance search and filter indexes for import shipments</li>
+                            </ul>
+                            <div class="project-tech-tags">
+                                <span>Laravel</span>
+                                <span>MySQL</span>
+                                <span>RESTful APIs</span>
+                                <span>Bilingual CMS</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project 4: EGEC -->
+                    <div class="project-card" data-category="laravel">
+                        <div class="project-info">
+                            <div class="project-meta">
+                                <span class="project-type"><i class="fas fa-university"></i> EdTech</span>
+                                <div class="project-links">
+                                    <a href="https://arabsstudents.com" target="_blank" title="Live Site"><i class="fas fa-external-link-alt"></i></a>
+                                </div>
+                            </div>
+                            <h3 class="project-title">EGEC Student Management</h3>
+                            <p class="project-desc">
+                                Bilingual enrollment and management platform connecting international students with higher education institutions in Egypt.
+                            </p>
+                            <ul class="project-details">
+                                <li><i class="fas fa-check text-primary"></i> Manages full student lifecycle from registration to document submission</li>
+                                <li><i class="fas fa-check text-primary"></i> Secure university panel interfaces with multi-tenant isolation</li>
+                            </ul>
+                            <div class="project-tech-tags">
+                                <span>Laravel</span>
+                                <span>MySQL</span>
+                                <span>Multitenancy</span>
+                                <span>Bootstrap</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project 5: Edugate UAE -->
+                    <div class="project-card" data-category="laravel">
+                        <div class="project-info">
+                            <div class="project-meta">
+                                <span class="project-type"><i class="fas fa-graduation-cap"></i> Admission Portal</span>
+                                <div class="project-links">
+                                    <a href="https://ksa-students.com" target="_blank" title="Live Site"><i class="fas fa-external-link-alt"></i></a>
+                                </div>
+                            </div>
+                            <h3 class="project-title">Edugate UAE Admission</h3>
+                            <p class="project-desc">
+                                High-throughput admission portal in the UAE featuring advanced program filtering and automated email application workflows.
+                            </p>
+                            <ul class="project-details">
+                                <li><i class="fas fa-check text-primary"></i> Optimized search index for university programs and admission criteria</li>
+                                <li><i class="fas fa-check text-primary"></i> Built-in dynamic CMS for page and landing-page customization</li>
+                            </ul>
+                            <div class="project-tech-tags">
+                                <span>Laravel</span>
+                                <span>MySQL</span>
+                                <span>Queues & Jobs</span>
+                                <span>Blade</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project 6: Zi Sushi -->
+                    <div class="project-card" data-category="laravel">
+                        <div class="project-info">
+                            <div class="project-meta">
+                                <span class="project-type"><i class="fas fa-utensils"></i> Mobile E-Commerce</span>
+                            </div>
+                            <h3 class="project-title">Zi Sushi Backend</h3>
+                            <p class="project-desc">
+                                Complete order processing and delivery scheduling backend APIs serving a mobile food ordering application.
+                            </p>
+                            <ul class="project-details">
+                                <li><i class="fas fa-check text-primary"></i> Dynamic promo code validator with complex expiration logic</li>
+                                <li><i class="fas fa-check text-primary"></i> Customer loyalty points engine and voucher reward system</li>
+                            </ul>
+                            <div class="project-tech-tags">
+                                <span>Laravel</span>
+                                <span>MySQL</span>
+                                <span>RESTful APIs</span>
+                                <span>E-Commerce</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Project 7: Pulmonary AI -->
+                    <div class="project-card" data-category="ai">
+                        <div class="project-info">
+                            <div class="project-meta">
+                                <span class="project-type"><i class="fas fa-microscope"></i> AI Healthcare</span>
+                            </div>
+                            <h3 class="project-title">Pulmonary Disease Early Detection</h3>
+                            <p class="project-desc">
+                                Graduation project featuring an AI system for early detection of pulmonary diseases through digital analysis of respiratory sounds.
+                            </p>
+                            <ul class="project-details">
+                                <li><i class="fas fa-check text-primary"></i> Signal processing and classification using Python ML models</li>
+                                <li><i class="fas fa-check text-primary"></i> Laravel web backend integration with interactive user dashboards</li>
+                            </ul>
+                            <div class="project-tech-tags">
+                                <span>Python</span>
+                                <span>AI/ML</span>
+                                <span>Laravel</span>
+                                <span>MySQL</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Technical Skills / Arsenal -->
+        <section class="skills-section" id="skills">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-subtitle">My Stack</span>
+                    <h2 class="section-title">Technical Skills</h2>
+                    <div class="divider"></div>
+                </div>
+
+                <div class="skills-grid">
+                    <!-- Languages -->
+                    <div class="skill-category">
+                        <div class="skill-category-header">
+                            <i class="fas fa-code text-gradient"></i>
+                            <h3>Languages</h3>
+                        </div>
+                        <div class="skill-tags">
+                            <span class="skill-badge">PHP</span>
+                            <span class="skill-badge">Python</span>
+                            <span class="skill-badge">JavaScript</span>
+                            <span class="skill-badge">SQL</span>
+                            <span class="skill-badge">Java</span>
+                            <span class="skill-badge">C++</span>
+                        </div>
+                    </div>
+
+                    <!-- Frameworks -->
+                    <div class="skill-category">
+                        <div class="skill-category-header">
+                            <i class="fas fa-cubes text-gradient"></i>
+                            <h3>Frameworks & CMS</h3>
+                        </div>
+                        <div class="skill-tags">
+                            <span class="skill-badge text-highlight">Laravel</span>
+                            <span class="skill-badge">WordPress</span>
+                            <span class="skill-badge">Blade</span>
+                            <span class="skill-badge">Bootstrap</span>
+                            <span class="skill-badge">TailwindCSS</span>
+                        </div>
+                    </div>
+
+                    <!-- Databases -->
+                    <div class="skill-category">
+                        <div class="skill-category-header">
+                            <i class="fas fa-database text-gradient"></i>
+                            <h3>Databases</h3>
+                        </div>
+                        <div class="skill-tags">
+                            <span class="skill-badge text-highlight">MySQL</span>
+                            <span class="skill-badge">MongoDB</span>
+                            <span class="skill-badge">SQL Server</span>
+                            <span class="skill-badge">Oracle</span>
+                        </div>
+                    </div>
+
+                    <!-- Tools & DevOps -->
+                    <div class="skill-category">
+                        <div class="skill-category-header">
+                            <i class="fas fa-tools text-gradient"></i>
+                            <h3>DevOps & Infrastructure</h3>
+                        </div>
+                        <div class="skill-tags">
+                            <span class="skill-badge text-highlight">Docker</span>
+                            <span class="skill-badge">Git & GitHub</span>
+                            <span class="skill-badge">GitHub Actions</span>
+                            <span class="skill-badge">Redis</span>
+                            <span class="skill-badge">Linux</span>
+                            <span class="skill-badge">Postman</span>
+                        </div>
+                    </div>
+
+                    <!-- Concepts -->
+                    <div class="skill-category colspan-2">
+                        <div class="skill-category-header">
+                            <i class="fas fa-brain text-gradient"></i>
+                            <h3>Architecture & Concepts</h3>
+                        </div>
+                        <div class="skill-tags flex-wrap">
+                            <span class="skill-badge">RESTful API Design</span>
+                            <span class="skill-badge">SOLID Principles</span>
+                            <span class="skill-badge">RBAC (Role Based Access Control)</span>
+                            <span class="skill-badge">Query Optimization</span>
+                            <span class="skill-badge">System Design</span>
+                            <span class="skill-badge">TDD (Test-Driven Development)</span>
+                            <span class="skill-badge">Engineering Leadership</span>
+                            <span class="skill-badge">Code Review & Mentoring</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section class="contact-section" id="contact">
+            <div class="container">
+                <div class="section-header">
+                    <span class="section-subtitle">Get In Touch</span>
+                    <h2 class="section-title">Contact Me</h2>
+                    <div class="divider"></div>
+                </div>
+
+                <div class="contact-grid">
+                    <div class="contact-info-panel">
+                        <h3>Let's build something great together.</h3>
+                        <p class="contact-prompt-desc">
+                            If you are looking for a dedicated Backend Engineer to design high-performance architectures, build robust APIs, or optimize database queries, feel free to drop a message!
+                        </p>
+                        
+                        <div class="contact-details-list">
+                            <div class="contact-detail-item">
+                                <div class="contact-icon"><i class="fas fa-envelope"></i></div>
+                                <div class="contact-text">
+                                    <span>Email</span>
+                                    <a href="mailto:01ahmedfawzy23@gmail.com">01ahmedfawzy23@gmail.com</a>
+                                </div>
+                            </div>
+                            <div class="contact-detail-item">
+                                <div class="contact-icon"><i class="fab fa-whatsapp"></i></div>
+                                <div class="contact-text">
+                                    <span>WhatsApp / Call</span>
+                                    <a href="tel:+201274106118">+20 127 410 6118</a>
+                                </div>
+                            </div>
+                            <div class="contact-detail-item">
+                                <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
+                                <div class="contact-text">
+                                    <span>Location</span>
+                                    <strong>Giza, Egypt (Open to remote)</strong>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="social-links-title">Find me on:</div>
+                        <div class="contact-social-icons">
+                            <a href="https://linkedin.com/in/ahmedfawzy23" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                            <a href="https://github.com/ahmedfawzy23" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                        </div>
+                    </div>
+
+                    <div class="contact-form-card">
+                        <form id="contact-form">
+                            <div class="form-group">
+                                <label for="name">Your Name</label>
+                                <input type="text" id="name" required placeholder="John Doe">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Your Email</label>
+                                <input type="email" id="email" required placeholder="john@example.com">
+                            </div>
+                            <div class="form-group">
+                                <label for="subject">Subject</label>
+                                <input type="text" id="subject" required placeholder="Project Proposal / Job Opportunity">
+                            </div>
+                            <div class="form-group">
+                                <label for="message">Message</label>
+                                <textarea id="message" rows="5" required placeholder="Write your message here..."></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-submit">
+                                <span>Send Message</span> <i class="fas fa-paper-plane"></i>
+                            </button>
+                        </form>
+                        <div class="form-status" id="form-status"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <p>&copy; 2026 Ahmed Fawzy. Built with Artisan Precision.</p>
+            <div class="footer-bottom-links">
+                <span>php artisan make:future</span>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom Script -->
+    <script src="script.js"></script>
+</body>
+</html>

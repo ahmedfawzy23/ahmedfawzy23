@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&width=700&height=50&lines=php+artisan+serve+--host%3Dworld;3%2B+Years+of+Laravel+Architecture;Mentored+500%2B+Developers;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&repeat=true&width=700&height=50&lines=php+artisan+serve+--host%3Dworld;2%2B+Years+of+Laravel+Architecture;Mentored+500%2B+Developers;Open+Source+Contributor" />
 </div>
 
 <br/>
@@ -47,7 +47,7 @@ class AhmedFawzy extends MidLevelDeveloper
 {
     protected string $role     = 'Mid-Level Backend Developer';
     protected string $location = 'Giza, Egypt';
-    protected string $experience = '3+ years';
+    protected string $experience = '2+ years';
     protected string $education  = 'Medical Informatics';
 
     public function skills(): array
@@ -66,8 +66,8 @@ class AhmedFawzy extends MidLevelDeveloper
         return [
             // WHOIPC project — 30+ facility endpoints
             'response' => '-30% avg response time via caching',
-            // Dotlaa Solution — 5+ client projects
-            'debt'     => '-40% technical debt via code reviews',
+            // Digital Bond — PR reviews & coding standards
+            'bugs'     => '-25% regression bugs via team PR reviews',
             // Route Academy — 3 cohorts, 2023–present
             'mentored' => '500+ developers trained',
             'projects' => '10+ production systems shipped',
@@ -118,18 +118,7 @@ class AhmedFawzy extends MidLevelDeveloper
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-
-<img src="./assets/dotlaa-logo.png" width="75" /><br/>
-<b>Dotlaa Solution</b><br/><br/>
-<img src="https://img.shields.io/badge/Backend_Team_Leader-FF2D20?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Project--based-0D1117?style=flat-square" /><br/><br/>
-<sub>✅ Led backend architecture for 5+ client projects</sub><br/>
-<sub>✅ Managed teams of 3–6 developers</sub><br/>
-<sub>✅ Reduced technical debt by 40% via code reviews & best practices</sub>
-
-</td>
-<td align="center" width="50%">
+<td align="center" colspan="2">
 
 <img src="./assets/elevate-tech-logo.png" width="75" /><br/>
 <b>Elevate Tech</b><br/><br/>
