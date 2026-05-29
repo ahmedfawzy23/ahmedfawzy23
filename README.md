@@ -290,7 +290,7 @@ class AhmedFawzy extends BackendDeveloper
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzy23&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedfawzy23&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -302,7 +302,7 @@ class AhmedFawzy extends BackendDeveloper
       <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=00e6a2&icon_color=00e6a2&text_color=C9D1D9&border_color=1F2937&hide_border=false&count_private=true&rank_icon=github" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfawzy23&theme=tokyonight&background=0D1117&border=1F2937&ring=00e6a2&fire=00e6a2&currStreakLabel=00e6a2" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=ahmedfawzy23&theme=tokyonight&background=0D1117&border=1F2937&ring=00e6a2&fire=00e6a2&currStreakLabel=00e6a2&stroke=1F2937" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
