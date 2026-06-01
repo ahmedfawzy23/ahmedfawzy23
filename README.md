@@ -302,7 +302,7 @@ class AhmedFawzy extends BackendDeveloper
       <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ahmedfawzy23&show_icons=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=C9D1D9&border_color=2d1a1a&hide_border=false&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=ahmedfawzy23&theme=dark&background=0D1117&border=2d1a1a&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&stroke=2d1a1a&sideLabels=C9D1D9&dates=C9D1D9" width="100%" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedfawzy23&theme=dark&background=0D1117&border=2d1a1a&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&stroke=2d1a1a&sideLabels=C9D1D9&dates=C9D1D9" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
