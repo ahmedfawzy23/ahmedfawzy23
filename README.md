@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/pixel_warrior.png" width="60%" style="border-radius:12px;" alt="Every bug is a boss fight" />
+  <img src="./assets/pixel_warrior.png" width="100%" style="border-radius:12px;" alt="Every bug is a boss fight" />
   <br/>
   <sub><i>Every bug is a boss fight — and I ship the fix.</i></sub>
 </div>
