@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/pixel_hacker_egyptian_boy_edited.png" width="100%" style="border-radius:12px;" alt="Funny pixel art Egyptian Arab hacker boy fighting glitch bugs" />
+  <img src="./assets/pixel_hacker_egyptian_boy_edited.png" width="600" style="border-radius:12px;" alt="Funny pixel art Egyptian Arab hacker boy fighting glitch bugs" />
   <br/>
   <sub><i>Hacking the mainframe and destroying bugs before they breach.</i></sub>
 </div>
