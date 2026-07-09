@@ -166,7 +166,7 @@ class AhmedFawzy extends BackendDeveloper
       <img src="./assets/route-academy-logo.png" width="65" style="border-radius:10px;" alt="Route Academy"/>
     </td>
     <td width="87%" valign="top">
-      <h3>PHP/Laravel Lead Mentor — Route Academy</h3>
+      <h3>PHP/Laravel Instructor & Mentor Team Lead — Route Academy</h3>
       <p><sub><b>Feb 2023 – Present | Dokki, Giza — Part-time</b></sub></p>
       <ul>
         <li>Mentored <b>500+ trainees</b> across cohorts — student satisfaction consistently above <b>90%</b>.</li>
