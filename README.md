@@ -7,9 +7,9 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/pixel_warrior.png" width="100%" style="border-radius:12px;" alt="Every bug is a boss fight" />
+  <img src="./assets/pixel_hacker_egyptian_boy_edited.png" width="100%" style="border-radius:12px;" alt="Funny pixel art Egyptian Arab hacker boy fighting glitch bugs" />
   <br/>
-  <sub><i>Every bug is a boss fight — and I ship the fix.</i></sub>
+  <sub><i>Hacking the mainframe and destroying bugs before they breach.</i></sub>
 </div>
 
 <br/>
